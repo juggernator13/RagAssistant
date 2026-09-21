@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RagAssistant.Chat.Wpf/RagAssistant.Chat.Wpf.csproj" />
+    <Project Path="src/RagAssistant.Core/RagAssistant.Core.csproj" />
+    <Project Path="src/RagAssistant.Indexer.WinForms/RagAssistant.Indexer.WinForms.csproj" />
+    <Project Path="src/RagAssistant.Infrastructure/RagAssistant.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RagAssistant.Core.Tests/RagAssistant.Core.Tests.csproj" />
+    <Project Path="tests/RagAssistant.Infrastructure.Tests/RagAssistant.Infrastructure.Tests.csproj" />
+    <Project Path="tests/RagAssistant.IntegrationTests/RagAssistant.IntegrationTests.csproj" />
+  </Folder>
+</Solution>
